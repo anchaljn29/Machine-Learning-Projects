@@ -1,2 +1,2 @@
-# Machine-learning-Projects-
-Created projects related to Supervised and unsupervised learning 
+The diabetes dataset is credited to UCI machine learning database repository. The dataset consists of 769 samples, out of which 500 are non-diabetic while 269 are diabetic people. So, we have 34.90% people in current data set who have diabetes and rest of 65.10% does not have diabetes. It is a good distribution True/False cases of diabetes in data. 
+ 
